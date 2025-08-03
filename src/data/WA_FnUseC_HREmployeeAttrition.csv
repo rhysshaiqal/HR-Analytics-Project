@@ -1,0 +1,26 @@
+EmployeeNumber,Department,JobRole,Age,Gender,PerformanceRating,MonthlyIncome,JobSatisfaction,EnvironmentSatisfaction,RelationshipSatisfaction,WorkLifeBalance,YearsAtCompany,JobLevel,OverTime,DistanceFromHome
+1001,R&D,Research Scientist,34,Male,4,5400,4,4,3,3,5,2,No,7
+1002,Sales,Sales Executive,29,Female,2,4800,2,2,2,1,2,1,Yes,18
+1003,HR,Human Resources,41,Male,3,4200,3,4,3,3,7,2,No,5
+1004,R&D,Research Director,48,Male,5,12500,4,4,4,4,10,4,No,3
+1005,Sales,Sales Representative,26,Female,2,3200,2,1,2,1,1,1,Yes,22
+1006,R&D,Laboratory Technician,32,Male,2,3100,2,2,3,2,3,1,Yes,15
+1007,R&D,Research Scientist,36,Female,4,5100,4,3,3,3,6,2,No,9
+1008,Sales,Sales Executive,31,Male,3,4600,2,3,2,2,2,1,Yes,12
+1009,Finance,Financial Analyst,28,Female,4,4900,3,4,3,3,3,1,No,11
+1010,Marketing,Marketing Manager,42,Male,5,8700,4,4,3,3,8,3,No,6
+1011,R&D,Laboratory Technician,29,Female,2,3300,2,2,2,2,2,1,Yes,14
+1012,Sales,Sales Executive,35,Male,4,5200,4,3,4,3,4,2,No,8
+1013,HR,HR Manager,45,Female,5,9800,4,4,4,4,12,4,No,4
+1014,Finance,Financial Director,52,Male,5,13500,4,4,4,4,15,4,No,2
+1015,Marketing,Marketing Specialist,27,Female,3,4100,3,3,3,2,2,1,Yes,16
+1016,R&D,Research Scientist,33,Male,4,5300,4,3,4,3,4,2,No,10
+1017,Sales,Sales Representative,25,Female,2,3100,2,2,2,1,1,1,Yes,20
+1018,HR,HR Specialist,31,Male,3,4500,3,3,3,3,3,2,No,7
+1019,Finance,Financial Analyst,30,Female,4,4700,4,3,3,3,4,2,No,9
+1020,Marketing,Marketing Director,47,Male,5,11200,4,4,4,4,10,4,No,5
+1021,R&D,Laboratory Manager,39,Female,4,7800,4,3,4,3,7,3,No,8
+1022,Sales,Sales Manager,43,Male,5,9500,4,4,3,3,9,3,No,6
+1023,HR,HR Director,49,Female,5,12100,4,4,4,4,14,4,No,3
+1024,Finance,Financial Manager,38,Male,4,8200,3,4,3,3,6,3,No,7
+1025,Marketing,Marketing Analyst,29,Female,3,4300,3,3,3,2,3,1,Yes,13 
